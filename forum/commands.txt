@@ -1,0 +1,4 @@
+[main].
+
+is_right_triangle(90, 45, 45)
+true
